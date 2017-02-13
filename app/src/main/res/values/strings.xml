@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone</string>
+    <string name="tv_print">请输入需要拨打的号码</string>
+    <string name="bt_call">拨打电话</string>
+</resources>
